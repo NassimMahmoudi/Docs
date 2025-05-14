@@ -1,6 +1,7 @@
 ---
 id: introduction
 title: Introduction
+slug: /
 ---
 # Welcome to the QSC Docs
 
