@@ -1,3 +1,7 @@
+---
+id: guide
+title: User Guide
+---
 # User Guide
 
 Follow this guide to get started.
