@@ -1,3 +1,6 @@
+---
+position: 4
+---
 # installation
 
 Follow this guide to get started.
