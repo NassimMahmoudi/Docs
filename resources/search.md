@@ -1,8 +1,4 @@
----
-id: search
-title: search
----
-# Search
+# Search 2
 
 **Q:** Where are docs stored?  
 **A:** In a Git repo, pulled on container start.

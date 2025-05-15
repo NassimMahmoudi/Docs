@@ -84,6 +84,6 @@ This feature is particularly suited for teams managing complex search systems, r
 
 :::tip
 
-To begin building your own dashboards or to explore the different widget types available, see the (https://www.docs.qsc-search.de/docs/qsc-admin/admin/dashboard/dashboard-setup).
+To begin building your own dashboards or to explore the different widget types available, see the [Dashboard Setup Guide](https://www.docs.qsc-search.de/docs/qsc-admin/admin/dashboard/dashboard-setup).
 
 :::
