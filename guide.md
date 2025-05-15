@@ -1,6 +1,7 @@
 ---
 id: guide
 title: User Guide
+sidebar_position: 2
 ---
 # User Guide
 
