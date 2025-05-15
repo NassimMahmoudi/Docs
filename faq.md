@@ -1,7 +1,6 @@
 ---
 id: faq
 title: FAQ
-position: 6
 ---
 # FAQ
 

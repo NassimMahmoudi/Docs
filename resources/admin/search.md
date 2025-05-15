@@ -1,7 +1,6 @@
 ---
 id: search
 title: search
-position: 5
 ---
 # FAQ
 

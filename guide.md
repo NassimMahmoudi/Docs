@@ -1,7 +1,6 @@
 ---
 id: guide
 title: User Guide
-position: 2
 ---
 # User Guide
 

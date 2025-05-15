@@ -1,6 +1,3 @@
----
-position: 3
----
 # Admin
 
 Follow this guide to get started.

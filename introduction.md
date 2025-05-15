@@ -2,7 +2,6 @@
 id: introduction
 title: Introduction
 slug: /
-position: 1
 ---
 # Welcome to the QSC Docs
 
