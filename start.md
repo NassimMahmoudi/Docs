@@ -19,7 +19,7 @@ To install MkDocs, run the following command from the command line:
 pip install mkdocs
 ```
 
-For more details, see the [Installation Guide].
+For more details:
 
 ## Creating a new project
 
@@ -201,11 +201,9 @@ The documentation site that you just built only uses static files so you'll be
 able to host it from pretty much anywhere. Simply upload the contents of the
 entire `site` directory to wherever you're hosting your website from and
 you're done. For specific instructions on a number of common hosts, see the
-[Deploying your Docs][deploy] page.
+page.
 
 ## Getting help
 
-See the [User Guide] for more complete documentation of all of MkDocs' features.
-
-To get help with MkDocs, please use the [GitHub discussions] or [GitHub issues].
+for more complete documentation of all of MkDocs' features.
 
