@@ -1,10 +1,11 @@
 ---
 id: test-id
-title: test title
+title: test
+slug: /
+sidebar_position: 1
 tags:
   - Demo
   - Getting started
-published_at: 2023-03-30
 ---
 
 
