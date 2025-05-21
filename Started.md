@@ -1,3 +1,10 @@
+---
+id: start
+title: getting started
+tags:
+  - Getting started
+---
+
 # Getting Started with MkDocs
 
 An introductory tutorial!
