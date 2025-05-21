@@ -1,8 +1,6 @@
 ---
 id: test-id
 title: test
-slug: /
-sidebar_position: 1
 tags:
   - Demo
   - Getting started
