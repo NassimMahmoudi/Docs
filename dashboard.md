@@ -2,8 +2,6 @@
 id: dashboard
 title: Dashboard
 description: dashboard
-slug: /
-sidebar_position: 1
 tags:
   - dashboard
   - widget
