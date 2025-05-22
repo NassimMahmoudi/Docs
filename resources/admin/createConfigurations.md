@@ -5,7 +5,7 @@ title: Configuration
 
 :::info
 
-After [installation](installation.md).
+Write a configuration in file eg. ( index.html )
 
 :::
 
