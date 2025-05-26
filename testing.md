@@ -1,7 +1,4 @@
----
-id: faq
-title: FAQ
----
+
 # FAQ
 
 **Q:** Where are docs stored?  
