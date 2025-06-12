@@ -1,5 +1,5 @@
 ---
-id: guide
+id: user
 title: User Guide
 ---
 # User Guide
