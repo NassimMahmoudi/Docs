@@ -1,5 +1,5 @@
 ---
-id: starting
+id: start
 title: getting started
 tags:
   - Getting started
